@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="localhost.idroid.salamun.service">
+    <uses-sdk android:minSdkVersion="10" />
+    <application android:label="\u0633\u0644\u0627\u0645\u0627">
+		<service android:name=".MyService" android:exported="true">
+			<intent-filter>
+				<action android:name="localhost.idroid.salamun.service.START_SERVICE" />
+			</intent-filter>
+		</service>
+    </application>
+</manifest>
