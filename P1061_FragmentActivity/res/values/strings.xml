@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="frag1_text">Fragment 1</string>
+	<string name="frag2_text">Fragment 2</string>
+	<string name="log">Log</string>
+	<string name="find">Find</string>
+</resources>
