@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="music">Music</string>
+	<string name="sound_gain">Sound G</string>
+	<string name="sound_gain_transient">Sound GT</string>
+	<string name="sound_gain_transient_duck">Sound GTD</string>
+</resources>
