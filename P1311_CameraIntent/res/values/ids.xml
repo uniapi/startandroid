@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item name="btnPhoto" type="id" />
+	<item name="btnVideo" type="id" />
+	<item name="ivPhoto" type="id" />
+</resources>
