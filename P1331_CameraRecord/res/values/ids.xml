@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="surfaceView" type="id" />
+    <item name="btnTakePicture" type="id" />
+    <item name="btnStartRecord" type="id" />
+    <item name="btnStopRecord" type="id" />
+</resources>
