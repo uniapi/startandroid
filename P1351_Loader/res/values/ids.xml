@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvTime" type="id" />
+    <item name="rgTimeFormat" type="id" />
+    <item name="rdShort" type="id" />
+    <item name="rdLong" type="id" />
+    <item name="btnGetTime" type="id" />
+    <item name="btnObserver" type="id" />
+</resources>

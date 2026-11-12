@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="format_short">Short</string>
+	<string name="format_long">Long</string>
+	<string name="get_time">Get time</string>
+	<string name="observer">Observer</string>
+</resources>
